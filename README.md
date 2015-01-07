@@ -27,3 +27,16 @@ A place to share links to the best articles and tools about android development
 
 [Marvin Labs](http://www.marvinlabs.com/category/android-tutorials/)
 
+[Android UI Patterns](http://www.androiduipatterns.com/)
+
+[Cyrill Mottier](http://cyrilmottier.com/)
+
+[Grokking Android](http://www.grokkingandroid.com/)
+
+[Martin's Random Knowledge](http://martin.cubeactive.com/category/tech/android/)
+
+[Radioactive Yak](http://blog.radioactiveyak.com/)
+
+[Geek You Up](http://geekyouup.blogspot.com.es/)
+
+
