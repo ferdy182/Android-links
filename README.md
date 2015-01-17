@@ -9,9 +9,20 @@ A place to share links to the best articles and tools about android development
 ## Multithreading
 [Async task is bad and you should feel bad](http://simonvt.net/2014/04/17/asynctask-is-bad-and-you-should-feel-bad/)
 
+## UI/UX
+7 Rules for Creating Gorgeous UI [Part 1](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-1-559d4e805cda)
+[Part 2](https://medium.com/@erikdkennedy/7-rules-for-creating-gorgeous-ui-part-2-430de537ba96)
+
+[Design explosions](https://medium.com/design-explosion)
+
 ## Components
 [Checkable listview](http://www.marvinlabs.com/2010/10/29/custom-listview-ability-check-items/)
 
+# Wear
+## Watch faces
+[Time reimagined by ustwo](http://wear.ustwo.com/#resources)
+
+## Watch apps
 # Game engines
 ## libgdx
 [A running game with libgdx](http://williammora.com/a-running-game-with-libgdx-part-1/) | [Github](https://github.com/wmora/martianrun)
