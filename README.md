@@ -33,6 +33,11 @@ A place to share links to the best articles and tools about android development
 ## Free online courses
 [Developing Android Apps - Udacity](https://www.udacity.com/course/viewer#!/c-ud853)
 
+## Videos
+
+[Dependency Injection on Android, by Pedro Gómez
+](https://www.youtube.com/watch?v=ONziKX93iTM&list=UU3g8lpQm3BapbLqnTgKjLZg)
+
 ## Blogs
 [Styling Android](https://blog.stylingandroid.com/)
 
