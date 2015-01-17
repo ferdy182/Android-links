@@ -18,6 +18,22 @@ A place to share links to the best articles and tools about android development
 ## Components
 [Checkable listview](http://www.marvinlabs.com/2010/10/29/custom-listview-ability-check-items/)
 
+## Custom views
+
+## Material design
+
+## Camera
+
+## Networking
+
+## Testing
+
+## Services
+
+## Databases
+
+## Design patterns
+
 # Wear
 ## Watch faces
 [Time reimagined by ustwo](http://wear.ustwo.com/#resources)
@@ -32,6 +48,8 @@ A place to share links to the best articles and tools about android development
 
 ## Free online courses
 [Developing Android Apps - Udacity](https://www.udacity.com/course/viewer#!/c-ud853)
+
+## Slides
 
 ## Videos
 
