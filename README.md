@@ -3,6 +3,7 @@ Android-links
 
 A place to share links to the best articles and tools about android development
 
+# Articles, slides, talks
 ## Animations:
 [My Journey to Lollipop Transitions: part 1](http://jimulabs.com/2014/12/journey-lollipop-transitions-part-1/)
 
@@ -51,6 +52,9 @@ A place to share links to the best articles and tools about android development
 
 ## Watch apps
 [Introduction to Android Wear - A Glimpse Into the Future by Cyrill Mottier](https://speakerdeck.com/cyrilmottier/introduction-to-android-wear-a-glimpse-into-the-future)
+
+[Android Wear - GDG - DevFest by Joan Fuentes](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1125)
+
 # Game engines
 ## libgdx
 [A running game with libgdx](http://williammora.com/a-running-game-with-libgdx-part-1/) | [Github](https://github.com/wmora/martianrun)
@@ -97,5 +101,7 @@ A place to share links to the best articles and tools about android development
 [Andy](http://forum.xda-developers.com/android/general/andy-android-emulator-win-mac-t3006419)
 
 
+# Marketing
 
+[The Secrets to App Success on Google Play - GDG - DevFest by Andrés Leonardo Martínez](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1127)
 
