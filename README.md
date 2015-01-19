@@ -76,25 +76,25 @@ A place to share links to the best articles and tools about android development
 ](https://www.youtube.com/watch?v=ONziKX93iTM&list=UU3g8lpQm3BapbLqnTgKjLZg)
 
 ## Blogs
-[Styling Android](https://blog.stylingandroid.com/)
+[Styling Android by Mark Allison](https://blog.stylingandroid.com/)
 
 [Marvin Labs](http://www.marvinlabs.com/category/android-tutorials/)
 
-[Android UI Patterns](http://www.androiduipatterns.com/)
+[Android UI Patterns by Juhani Lehtimaki](http://www.androiduipatterns.com/)
 
 [Android Design Patterns by Alex Lockwood](http://www.androiddesignpatterns.com/)
 
 [Cyrill Mottier](http://cyrilmottier.com/)
 
-[Grokking Android](http://www.grokkingandroid.com/)
+[Grokking Android by Wolfram Rittmeyer](http://www.grokkingandroid.com/)
 
 [Martin's Random Knowledge](http://martin.cubeactive.com/category/tech/android/)
 
-[Radioactive Yak](http://blog.radioactiveyak.com/)
+[Radioactive Yak by Reto Meier](http://blog.radioactiveyak.com/)
 
 [Geek You Up](http://geekyouup.blogspot.com.es/)
 
-[Pushing pixels](http://www.pushing-pixels.org/)
+[Pushing pixels by Kirill Grouchnikov](http://www.pushing-pixels.org/)
 
 ### Spanish
 
