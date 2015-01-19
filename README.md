@@ -118,5 +118,5 @@ A place to share links to the best articles and tools about android development
 
 # Marketing
 
-[The Secrets to App Success on Google Play - GDG - DevFest by Andrés Leonardo Martínez](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1127)
+[The Secrets to App Success on Google Play - GDG - DevFest by Andrés Leonardo Martínez (Spanish)](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1127)
 
