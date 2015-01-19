@@ -22,6 +22,9 @@ A place to share links to the best articles and tools about android development
 
 ## Custom views
 
+## Drawables
+[Mastering Drawables by Cyrill Mottier](https://speakerdeck.com/cyrilmottier/mastering-android-drawables)
+
 ## Material design
 
 ## Camera
@@ -32,7 +35,13 @@ A place to share links to the best articles and tools about android development
 
 ## Services
 
-## Databases
+## Databases/Storage/App state
+
+[Deep Dive Into Android State Restoration by Cyril Mottier](https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration)
+
+## Google Maps API v2
+
+[Getting around with Google Maps Android API v2 by Cyril Mottier](https://speakerdeck.com/cyrilmottier/getting-around-with-google-maps-android-api-v2)
 
 ## Design patterns
 
@@ -41,6 +50,7 @@ A place to share links to the best articles and tools about android development
 [Time reimagined by ustwo](http://wear.ustwo.com/#resources)
 
 ## Watch apps
+[Introduction to Android Wear - A Glimpse Into the Future by Cyrill Mottier](https://speakerdeck.com/cyrilmottier/introduction-to-android-wear-a-glimpse-into-the-future)
 # Game engines
 ## libgdx
 [A running game with libgdx](http://williammora.com/a-running-game-with-libgdx-part-1/) | [Github](https://github.com/wmora/martianrun)
@@ -50,8 +60,6 @@ A place to share links to the best articles and tools about android development
 
 ## Free online courses
 [Developing Android Apps - Udacity](https://www.udacity.com/course/viewer#!/c-ud853)
-
-## Slides
 
 ## Videos
 
