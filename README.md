@@ -28,6 +28,8 @@ A place to share links to the best articles and tools about android development
 
 ## Material design
 
+[Tips and tricks for Android Material Support Library by Hootsuite](http://code.hootsuite.com/tips-and-tricks-for-android-material-support-library/)
+
 ## Camera
 
 ## Networking
