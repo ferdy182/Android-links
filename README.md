@@ -94,6 +94,11 @@ A place to share links to the best articles and tools about android development
 [Androcode](http://www.androcode.es)
 
 # Tools
+
+## Gradle
+
+[Publishing gradle android library to jcenter](https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/)
+
 ## Emulators
 
 [Genymotion](https://www.genymotion.com/)
