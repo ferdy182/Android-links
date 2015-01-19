@@ -89,4 +89,13 @@ A place to share links to the best articles and tools about android development
 
 [Androcode](http://www.androcode.es)
 
+# Tools
+## Emulators
+
+[Genymotion](https://www.genymotion.com/)
+
+[Andy](http://forum.xda-developers.com/android/general/andy-android-emulator-win-mac-t3006419)
+
+
+
 
