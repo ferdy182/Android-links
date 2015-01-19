@@ -58,7 +58,7 @@ A place to share links to the best articles and tools about android development
 ## Watch apps
 [Introduction to Android Wear - A Glimpse Into the Future by Cyrill Mottier](https://speakerdeck.com/cyrilmottier/introduction-to-android-wear-a-glimpse-into-the-future)
 
-[Android Wear - GDG - DevFest by Joan Fuentes](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1125)
+[Android Wear - GDG - DevFest by Joan Fuentes (Spanish)](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1125)
 
 # Game engines
 ## libgdx
