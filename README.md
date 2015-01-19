@@ -82,6 +82,8 @@ A place to share links to the best articles and tools about android development
 
 [Android UI Patterns](http://www.androiduipatterns.com/)
 
+[Android Design Patterns by Alex Lockwood](http://www.androiddesignpatterns.com/)
+
 [Cyrill Mottier](http://cyrilmottier.com/)
 
 [Grokking Android](http://www.grokkingandroid.com/)
