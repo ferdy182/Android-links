@@ -70,6 +70,8 @@ A place to share links to the best articles and tools about android development
 ## Free online courses
 [Developing Android Apps - Udacity](https://www.udacity.com/course/viewer#!/c-ud853)
 
+[sgoliver.net (spanish)](http://www.sgoliver.net/blog/?page_id=3011)
+
 ## Videos
 
 [Dependency Injection on Android, by Pedro Gómez
@@ -99,6 +101,8 @@ A place to share links to the best articles and tools about android development
 ### Spanish
 
 [Androcode](http://www.androcode.es)
+
+[sgoliver.net by Salvador Gómez Oliver](http://www.sgoliver.net/blog/?cat=203)
 
 # Tools
 
