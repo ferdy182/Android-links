@@ -7,7 +7,7 @@ A place to share links to the best articles and tools about android development
 ## Animations:
 [My Journey to Lollipop Transitions: part 1](http://jimulabs.com/2014/12/journey-lollipop-transitions-part-1/)
 
-[Activity & Fragment Transitions (5 parts) ](http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html)
+[Activity & Fragment Transitions (5 parts) by Alex Lockwood ](http://www.androiddesignpatterns.com/2014/12/activity-fragment-transitions-in-android-lollipop-part1.html)
 
 ## Multithreading
 [Async task is bad and you should feel bad](http://simonvt.net/2014/04/17/asynctask-is-bad-and-you-should-feel-bad/)
