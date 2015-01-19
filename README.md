@@ -74,8 +74,7 @@ A place to share links to the best articles and tools about android development
 
 ## Videos
 
-[Dependency Injection on Android, by Pedro Gómez
-](https://www.youtube.com/watch?v=ONziKX93iTM&list=UU3g8lpQm3BapbLqnTgKjLZg)
+[Dependency Injection on Android, by Pedro Gómez (Spanish)](https://www.youtube.com/watch?v=ONziKX93iTM&list=UU3g8lpQm3BapbLqnTgKjLZg)
 
 ## Blogs
 [Styling Android by Mark Allison](https://blog.stylingandroid.com/)
