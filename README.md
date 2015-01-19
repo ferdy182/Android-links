@@ -42,6 +42,9 @@ A place to share links to the best articles and tools about android development
 
 [Deep Dive Into Android State Restoration by Cyril Mottier](https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration)
 
+## Google play services
+[Google Play Services: Setup & Verification](http://www.androiddesignpatterns.com/2013/01/google-play-services-setup.html)
+
 ## Google Maps API v2
 
 [Getting around with Google Maps Android API v2 by Cyril Mottier](https://speakerdeck.com/cyrilmottier/getting-around-with-google-maps-android-api-v2)
