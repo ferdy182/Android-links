@@ -109,6 +109,8 @@ A place to share links to the best articles and tools about android development
 
 [Publishing gradle android library to jcenter](https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/)
 
+[In gradle we trust by Iñaki Villar](https://speakerdeck.com/cdsap/in-gradle-we-trust)
+
 ## Emulators
 
 [Genymotion](https://www.genymotion.com/)
