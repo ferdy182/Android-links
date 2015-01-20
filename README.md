@@ -21,6 +21,8 @@ A place to share links to the best articles and tools about android development
 ## Components
 [Checkable listview](http://www.marvinlabs.com/2010/10/29/custom-listview-ability-check-items/)
 
+[Context, What context?](http://possiblemobile.com/2013/06/context/)
+
 ## Custom views
 
 ## Drawables
