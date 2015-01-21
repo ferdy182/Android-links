@@ -78,6 +78,8 @@ A place to share links to the best articles and tools about android development
 
 [Dependency Injection on Android, by Pedro Gómez (Spanish)](https://www.youtube.com/watch?v=ONziKX93iTM&list=UU3g8lpQm3BapbLqnTgKjLZg)
 
+[Google I/O 2011: Memory management for Android Apps](https://www.youtube.com/watch?v=_CruQY55HOk)
+
 ## Blogs
 [Styling Android by Mark Allison](https://blog.stylingandroid.com/)
 
