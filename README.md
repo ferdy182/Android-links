@@ -111,6 +111,8 @@ A place to share links to the best articles and tools about android development
 
 ## Gradle
 
+[Gradle tutorial series (10 parts)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
+
 [Publishing gradle android library to jcenter](https://www.virag.si/2015/01/publishing-gradle-android-library-to-jcenter/)
 
 [In gradle we trust by Iñaki Villar](https://speakerdeck.com/cdsap/in-gradle-we-trust)
