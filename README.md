@@ -75,6 +75,7 @@ A place to share links to the best articles and tools about android development
 [sgoliver.net (spanish)](http://www.sgoliver.net/blog/?page_id=3011)
 
 ## Videos
+[Android Development With Gradle](https://www.youtube.com/watch?v=0bhbQdZLpIE)
 
 [Dependency Injection on Android, by Pedro Gómez (Spanish)](https://www.youtube.com/watch?v=ONziKX93iTM&list=UU3g8lpQm3BapbLqnTgKjLZg)
 
