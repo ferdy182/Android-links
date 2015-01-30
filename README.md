@@ -38,6 +38,10 @@ A place to share links to the best articles and tools about android development
 
 ## Testing
 
+[Instrumentation testing with dagger, mockito and espresso](http://engineering.circle.com/instrumentation-testing-with-dagger-mockito-and-espresso/)
+
+[Android TDD using jUnit, robolectric and Mockito](http://blog.emfeld.com/2015/01/android-tdd-using-junit-robolectric-and.html)
+
 ## Services
 
 ## In-app purchases
@@ -55,6 +59,8 @@ A place to share links to the best articles and tools about android development
 [Getting around with Google Maps Android API v2 by Cyril Mottier](https://speakerdeck.com/cyrilmottier/getting-around-with-google-maps-android-api-v2)
 
 ## Design patterns
+
+[Event driven programming for Android (3 parts) by Enrique López](https://medium.com/google-developer-experts/event-driven-programming-for-android-part-i-f5ea4a3c4eab)
 
 # Wear
 ## Watch faces
@@ -113,6 +119,8 @@ A place to share links to the best articles and tools about android development
 
 # Tools
 
+[Tools for the trade (2 parts) by Sebastiano Poggi](https://medium.com/sebs-top-tips/tools-of-the-trade-part-1-f3c1c73de898)
+
 ## Gradle
 
 [Gradle tutorial series (10 parts)](http://rominirani.com/2014/07/28/gradle-tutorial-series-an-overview/)
@@ -131,4 +139,8 @@ A place to share links to the best articles and tools about android development
 # Marketing
 
 [The Secrets to App Success on Google Play - GDG - DevFest by Andrés Leonardo Martínez (Spanish)](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1127)
+
+# Source Code
+
+[Google Samples](https://github.com/googlesamples)
 
