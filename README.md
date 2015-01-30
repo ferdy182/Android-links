@@ -40,6 +40,9 @@ A place to share links to the best articles and tools about android development
 
 ## Services
 
+## In-app purchases
+[Android In-app Purchases (3 parts) by Chupamobile](http://www.chupamobile.com/blog/2015/01/20/android-app-purchases-part-1/)
+
 ## Databases/Storage/App state
 
 [Deep Dive Into Android State Restoration by Cyril Mottier](https://speakerdeck.com/cyrilmottier/deep-dive-into-android-state-restoration)
