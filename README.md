@@ -3,6 +3,41 @@ Android-links
 
 A place to share links to the best articles and tools about android development
 
+## Table of Contents
+- [Articles, slides, talks](#articles-slides-talks)
+	- [Animations:](#animations)
+	- [Multithreading](#multithreading)
+	- [UI/UX](#uiux)
+	- [Components](#components)
+	- [Custom views](#custom-views)
+	- [Drawables](#drawables)
+	- [Material design](#material-design)
+	- [Camera](#camera)
+	- [Networking](#networking)
+	- [Testing](#testing)
+	- [Services](#services)
+	- [In-app purchases](#in-app-purchases)
+	- [Databases/Storage/App state](#databasesstorageapp-state)
+	- [Google play services](#google-play-services)
+	- [Google Maps API v2](#google-maps-api-v2)
+	- [Design patterns](#design-patterns)
+- [Wear](#wear)
+	- [Watch faces](#watch-faces)
+	- [Watch apps](#watch-apps)
+- [Android TV](#android-tv)
+- [Game engines](#game-engines)
+	- [libgdx](#libgdx)
+	- [Free books](#free-books)
+	- [Free online courses](#free-online-courses)
+	- [Videos](#videos)
+	- [Blogs](#blogs)
+		- [Spanish](#spanish)
+- [Tools](#tools)
+	- [Gradle](#gradle)
+	- [Emulators](#emulators)
+- [Marketing](#marketing)
+- [Source Code](#source-code)
+
 # Articles, slides, talks
 ## Animations:
 [My Journey to Lollipop Transitions: part 1](http://jimulabs.com/2014/12/journey-lollipop-transitions-part-1/)
@@ -147,4 +182,3 @@ A place to share links to the best articles and tools about android development
 # Source Code
 
 [Google Samples](https://github.com/googlesamples)
-
