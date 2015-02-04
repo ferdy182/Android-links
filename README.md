@@ -71,6 +71,10 @@ A place to share links to the best articles and tools about android development
 
 [Android Wear - GDG - DevFest by Joan Fuentes (Spanish)](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1125)
 
+# Android TV
+
+[Tuenti for AndroidTV](http://corporate.tuenti.com/es/dev/blog/Tuenti-for-Android-TV)
+
 # Game engines
 ## libgdx
 [A running game with libgdx](http://williammora.com/a-running-game-with-libgdx-part-1/) | [Github](https://github.com/wmora/martianrun)
