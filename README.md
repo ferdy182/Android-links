@@ -33,6 +33,7 @@ A place to share links to the best articles and tools about android development
 	- [Videos](#videos)
 	- [Blogs](#blogs)
 		- [Spanish](#spanish)
+- [Libraries](#libraries)
 - [Tools](#tools)
 	- [Gradle](#gradle)
 	- [Emulators](#emulators)
@@ -164,6 +165,14 @@ A place to share links to the best articles and tools about android development
 [Androcode](http://www.androcode.es)
 
 [sgoliver.net by Salvador Gómez Oliver](http://www.sgoliver.net/blog/?cat=203)
+
+# Libraries
+
+[Libraries for Android development](https://github.com/wasabeef/awesome-android-libraries)
+
+[List of Android UI/UX libraries](https://github.com/wasabeef/awesome-android-ui)
+
+[Android Arsenal-Directory of libraries and tools.](https://android-arsenal.com/)
 
 # Tools
 
