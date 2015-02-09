@@ -70,6 +70,8 @@ A place to share links to the best articles and tools about android development
 
 [Materialize your app by Antonio Leiva](http://antonioleiva.com/materialize-app/)
 
+[Material Design Everywhere by Antonio Leiva](http://antonioleiva.com/material-design-everywhere/)
+
 ## Camera
 
 ## Networking
@@ -101,6 +103,7 @@ A place to share links to the best articles and tools about android development
 [Event driven programming for Android (3 parts) by Enrique López](https://medium.com/google-developer-experts/event-driven-programming-for-android-part-i-f5ea4a3c4eab)
 
 ## Architecture
+
 [A useful stack on Android by Saul Molinero](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
 
 # Wear
