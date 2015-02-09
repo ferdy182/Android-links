@@ -21,6 +21,7 @@ A place to share links to the best articles and tools about android development
 	- [Google play services](#google-play-services)
 	- [Google Maps API v2](#google-maps-api-v2)
 	- [Design patterns](#design-patterns)
+	- [Architecture](#architecture)
 - [Wear](#wear)
 	- [Watch faces](#watch-faces)
 	- [Watch apps](#watch-apps)
@@ -67,6 +68,8 @@ A place to share links to the best articles and tools about android development
 
 [Tips and tricks for Android Material Support Library by Hootsuite](http://code.hootsuite.com/tips-and-tricks-for-android-material-support-library/)
 
+[Materialize your app by Antonio Leiva](http://antonioleiva.com/materialize-app/)
+
 ## Camera
 
 ## Networking
@@ -96,6 +99,9 @@ A place to share links to the best articles and tools about android development
 ## Design patterns
 
 [Event driven programming for Android (3 parts) by Enrique López](https://medium.com/google-developer-experts/event-driven-programming-for-android-part-i-f5ea4a3c4eab)
+
+## Architecture
+[A useful stack on Android by Saul Molinero](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
 
 # Wear
 ## Watch faces
