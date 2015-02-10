@@ -38,6 +38,7 @@ A place to share links to the best articles and tools about android development
 	- [Gradle](#gradle)
 	- [Emulators](#emulators)
 - [Marketing](#marketing)
+- [Other](#other)
 - [Source Code](#source-code)
 
 # Articles, slides, talks
@@ -160,7 +161,7 @@ A place to share links to the best articles and tools about android development
 
 [Geek You Up](http://geekyouup.blogspot.com.es/)
 
-[Pushing pixels by Kirill Grouchnikov](http://www.pushing-pixels.org/)
+[Pushing pixels by Kirill Grouchnikov](http://www.pushing-pixels.org/)per
 
 ### Spanish
 
@@ -198,6 +199,10 @@ A place to share links to the best articles and tools about android development
 # Marketing
 
 [The Secrets to App Success on Google Play - GDG - DevFest by Andrés Leonardo Martínez (Spanish)](http://media.fib.upc.edu/fibtv/streamingmedia/view/2/1127)
+
+# Other
+
+[Links about performance and graphics by Chet Haase](http://graphics-geek.blogspot.de/2015/01/android-development-lotsa-links.html)
 
 # Source Code
 
