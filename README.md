@@ -139,6 +139,8 @@ A place to share links to the best articles and tools about android development
 
 [Google I/O 2011: Memory management for Android Apps](https://www.youtube.com/watch?v=_CruQY55HOk)
 
+[Android Performance Patterns](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu)
+
 ## Blogs
 [Styling Android by Mark Allison](https://blog.stylingandroid.com/)
 
