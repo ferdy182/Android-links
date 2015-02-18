@@ -142,6 +142,8 @@ A place to share links to the best articles and tools about android development
 
 [Android Performance Patterns playlist by Google](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu)
 
+[Material for old schoolers by Jorge Barroso and Fernando Cejas (Spanish)](https://www.youtube.com/watch?v=tSFrYWvh71I)
+
 ## Blogs
 [Styling Android by Mark Allison](https://blog.stylingandroid.com/)
 
