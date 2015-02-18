@@ -142,7 +142,7 @@ A place to share links to the best articles and tools about android development
 
 [Android Performance Patterns playlist by Google](https://www.youtube.com/playlist?list=PLOU2XLYxmsIKEOXh5TwZEv89aofHzNCiu)
 
-[Material for old schoolers by Jorge Barroso and Fernando Cejas (Spanish)](https://www.youtube.com/watch?v=tSFrYWvh71I)
+[Material for old schoolers by Jorge Barroso and Fernando Cejas (Spanish)](https://www.youtube.com/watch?v=tSFrYWvh71I) | [Slides](http://www.slideshare.net/flipper83/material-old-school) | [Github](https://github.com/flipper83/transition-old-school)
 
 ## Blogs
 [Styling Android by Mark Allison](https://blog.stylingandroid.com/)
