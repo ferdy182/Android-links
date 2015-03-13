@@ -205,6 +205,7 @@ A place to share links to the best articles and tools about android development
 # Other
 
 [Links about performance and graphics by Chet Haase](http://graphics-geek.blogspot.de/2015/01/android-development-lotsa-links.html)
+
 [Understanding android input touch events](http://codetheory.in/understanding-android-input-touch-events/)
 
 # Source Code
