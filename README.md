@@ -9,6 +9,7 @@ A place to share links to the best articles and tools about android development
 	- [Multithreading](#multithreading)
 	- [UI/UX](#uiux)
 	- [Components](#components)
+	- [Images](#images)
 	- [Custom views](#custom-views)
 	- [Drawables](#drawables)
 	- [Material design](#material-design)
@@ -61,6 +62,12 @@ A place to share links to the best articles and tools about android development
 
 [Context, What context?](http://possiblemobile.com/2013/06/context/)
 
+## Images
+
+[Introduction to Glide, Image Loader Library for Android, recommended by Google](http://inthecheesefactory.com/blog/get-to-know-glide-recommended-by-google/en)
+
+[Tech: Android Image Tricks](https://www.dwellable.com/blog/Tech-Android-Image-Tricks)
+
 ## Custom views
 
 ## Drawables
@@ -83,6 +90,10 @@ A place to share links to the best articles and tools about android development
 [Instrumentation testing with dagger, mockito and espresso](http://engineering.circle.com/instrumentation-testing-with-dagger-mockito-and-espresso/)
 
 [Android TDD using jUnit, robolectric and Mockito](http://blog.emfeld.com/2015/01/android-tdd-using-junit-robolectric-and.html)
+
+[Dagger 2 + Espresso 2 + Mockito](http://blog.sqisland.com/2015/04/dagger-2-espresso-2-mockito.html)
+
+[All in Together: Android Studio, Gradle and Robolectric](https://www.bignerdranch.com/blog/all-in-together-android-studio-gradle-and-robolectric/)
 
 ## Services
 
@@ -107,6 +118,14 @@ A place to share links to the best articles and tools about android development
 ## Architecture
 
 [A useful stack on Android by Saul Molinero](http://saulmm.github.io/2015/02/02/A%20useful%20stack%20on%20android%20%231,%20architecture/)
+
+### MVP
+
+[Architecting Android the Clean way by Fernando Cejas](http://fernandocejas.com/2014/09/03/architecting-android-the-clean-way/)
+
+[Ted Mosby - Software architect](http://hannesdorfmann.com/android/mosby/)
+
+
 
 # Wear
 ## Watch faces
