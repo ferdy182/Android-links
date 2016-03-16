@@ -190,6 +190,8 @@ A place to share links to the best articles and tools about android development
 
 [sgoliver.net by Salvador Gómez Oliver](http://www.sgoliver.net/blog/?cat=203)
 
+[Hermosa Programación] (http://www.hermosaprogramacion.com/)
+
 # Libraries
 
 [Libraries for Android development](https://github.com/wasabeef/awesome-android-libraries)
